@@ -1,4 +1,4 @@
-import democss from './demo2.module.css'
+import {demo2} from './demo2.css'
 export const Demo2 = () => {
-    return <div className={democss.demo2}>Demo2</div>
+    return <div className={demo2}>Demo2</div>
 }
